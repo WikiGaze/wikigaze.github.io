@@ -62,9 +62,12 @@ sudo apt-get install tesseract-ocr
 > The number within third bracket determines the index value of that line in the file.
 
 # Application Run
+
+```bash
 cd Integration
 
 python new_main.py
+```
 
 # Application Usage Procedure
 Participants are required to follow the following steps during dataset collection:
