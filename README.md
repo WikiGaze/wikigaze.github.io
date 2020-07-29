@@ -17,9 +17,11 @@ We propose WikiGaze, a state-of-the-art approach to utilize readers' participati
 * Install Opengazer: [https://github.com/qiffp/OpenGazer] for Mac OS X or Ubuntu systems
 * Install Netgazer: [https://sourceforge.net/projects/netgazer/] for Windows systems
 * Open a terminal and run:
-** cd opengazer
-** sudo bash dependencies.sh
-** make
+```bash
+cd opengazer
+sudo bash dependencies.sh
+make
+```
 
 ### Manual Installation 
 python3-pip
