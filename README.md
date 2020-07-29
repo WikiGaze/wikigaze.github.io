@@ -46,16 +46,16 @@ sudo apt-get install tesseract-ocr
 ## Config Files
 
 * main_cofig
-    1. [0] Determines when to start or stop capture_gaze script.
-    1. [1] Determines when to store the captured gaze values into a variable.
-    1. [2] Determines whether the program has been successfully calibrated or not.
+    1. Determines when to start or stop capture_gaze script.
+    1. Determines when to store the captured gaze values into a variable.
+    1. Determines whether the program has been successfully calibrated or not.
 
 * config
-    1. [0] Determines when to start or stop the elg_demo script to calibrate the program.
-    1. [1] Determines when to open the calibration window and run the subsequent script.
-    1. [2] Determines when to run the Wait GUI and script.
-    1. [3] Determines when to save the captured gaze values into a file.
-    1. [4] Determines when to capture the gaze values and store it into a variable.
+    1. Determines when to start or stop the elg_demo script to calibrate the program.
+    1. Determines when to open the calibration window and run the subsequent script.
+    1. Determines when to run the Wait GUI and script.
+    1. Determines when to save the captured gaze values into a file.
+    1. Determines when to capture the gaze values and store it into a variable.
 
 > The number within third bracket determines the index value of that line in the file.
 
