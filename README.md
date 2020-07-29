@@ -11,6 +11,8 @@ We propose WikiGaze, a state-of-the-art approach to utilize readers' participati
 ![Workflow diagram to create personalized summaries](https://github.com/WikiGaze/Wikipedia-Analysis-through-Eye-Gaze/blob/master/images/WikiGaze_Flow.png)
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Installation for Mac OS X / Ubuntu / Windows systems
 
 ### Scripted Installation
