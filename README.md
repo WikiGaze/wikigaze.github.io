@@ -8,7 +8,7 @@ We propose WikiGaze, a state-of-the-art approach to utilize readers' participati
 * License: 3-Clause BSD
 
 # Flow Chart
-![Workflow diagram to create personalized summaries](images/WikiGaze_Flow.png)
+![Workflow diagram to create personalized summaries](https://github.com/WikiGaze/Wikipedia-Analysis-through-Eye-Gaze/blob/master/images/WikiGaze_Flow.png)
 
 
 ## Installation for Mac OS X / Ubuntu / Windows systems
