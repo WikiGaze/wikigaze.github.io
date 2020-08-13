@@ -91,4 +91,6 @@ to provide comparative performance testing.
 To evaluate the effectiveness of the proposed editor ranking approach on the contribution of editors, we conduct an experiment with the help of Introduction to Computing course students. We deploy a Wikipedia instance on our University intranet and create two new Wikipedia pages titled, “Divide and Conquer" and “Dynamic Programming". The selected topics are the categories of programming algorithms, and they are taught in the mentioned course.
 
 We run this experiment for the duration of the last six weeks of the course. We provide students with details of both Wikipedia pages, and we ask them to make entries in both the Wikipedia pages. Students were not allowed to create new Wikipedia pages. All the edits have to be done in the above mentioned two pages only. We inform them that their weekly ranking in each leaderboard will be noted (every Sunday at 7 p.m.), and it will be considered during the final grading of
-the course. We collect student's responses in the following survey form.
+the course. We collect student's responses in the following survey form:
+
+![image](https://drive.google.com/file/d/1GXxvSfc02GvL4I7EkmqSjUMxDHaki_kn/view?usp=sharing)
