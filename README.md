@@ -7,10 +7,7 @@ We propose WikiGaze, a state-of-the-art approach to utilize readers' participati
 * Repositiory: Due to anonymization purpose, this repository has been hidden
 * License: 3-Clause BSD
 
-# Flow Chart
-
-![Workflow diagram to create personalized summaries](https://github.com/WikiGaze/Wikipedia-Analysis-through-Eye-Gaze/blob/master/images/WikiGaze_Flow.png)
-
+# Video Explaination
 
 <iframe width="560" height="315" src="https://youtube.com/embed/AtimebDAfJ0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -87,3 +84,8 @@ Participants are required to follow the following steps during dataset collectio
     </ol>
   <li>In the end, please rate the text extraction as per your satisfaction level.</li>  
 </ol>
+
+# Survey Information
+We showcase the effectiveness of the proposed editor ranking algorithm on editors’ contributions. In this evaluation, we also compare the editors’ performance under the influence of Wikipedia’s traditional leaderboard and the proposed leaderboard. Due to the lack of any similar editor ranking tool, we are unable
+to provide comparative performance testing.
+To evaluate the effectiveness of the proposed editor ranking approach on the contribution of editors, we conduct an experiment with the help of Introduction to Computing course students. We deploy a Wikipedia instance on our University intranet and create two new Wikipedia pages titled, “Divide and Conquer" and “Dynamic Programming". The selected topics are the categories of programming algorithms, and they are taught in the mentioned course.
