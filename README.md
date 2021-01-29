@@ -4,6 +4,10 @@ We propose WikiGaze, a state-of-the-art approach to utilize readers' participati
 
 * Repositiory: Anonymized temporary Github Repo [https://github.com/WikiGaze/Wikipedia-readers-gaze] 
 * License: 3-Clause BSD
+# Supplementary Material
+
+Google Scholar Experiment details: [Google_scholar.pdf]
+Leaderboard Creation Algorithms: [Leaderboard_algos.pdf]
 
 # Video Explaination
 
