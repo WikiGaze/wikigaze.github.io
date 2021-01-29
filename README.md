@@ -6,8 +6,8 @@ We propose WikiGaze, a state-of-the-art approach to utilize readers' participati
 * License: 3-Clause BSD
 # Supplementary Material
 
-* Google Scholar Experiment details: [shorturl.at/gFLN6] 
-* Leaderboard Creation Algorithms: [shorturl.at/moQTX]  
+* Google Scholar Experiment details: [https://github.com/WikiGaze/wikigaze.github.io/blob/master/Google_scholar.pdf] 
+* Leaderboard Creation Algorithms: [https://github.com/WikiGaze/wikigaze.github.io/blob/master/Leaderboard_Algos.pdf]  
 
 # Video Explaination
 
